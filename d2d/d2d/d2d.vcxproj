@@ -183,6 +183,7 @@
   <ItemGroup>
     <ClInclude Include="ChildView.h" />
     <ClInclude Include="d2d.h" />
+    <ClInclude Include="D2dPrerequisite.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
