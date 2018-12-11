@@ -22,7 +22,7 @@ public:
 private:
 	//Direct2D interface
 	ID2D1Factory* m_pD2d1Factory;
-	ID2D1HwndRenderTarget* m_pHwndRenderTarget;
+	ID2D1DCRenderTarget* m_pDCRenderTarget;
 	ID2D1SolidColorBrush* m_pSolidColorBrush;
 	ID2D1LinearGradientBrush* m_pLinearGradientBrush;
 	ID2D1RadialGradientBrush* m_pRadialGradientBrush;
